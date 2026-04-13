@@ -19,3 +19,7 @@ timeZone = "America/Costa_Rica"
     disableDate = false
     disableLatLong = true
     includeFields = "ImageDescription|Orientation"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
