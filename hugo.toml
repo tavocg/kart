@@ -1,0 +1,21 @@
+baseURL = 'https://tavocg.github.io/kart/'
+locale = 'es-la'
+title = 'Kartismo en CR'
+
+copyright = "© 2026 AM CUP Staff"
+defaultContentLanguage = "es"
+enableRobotsTXT = true
+languageCode = "es"
+timeZone = "America/Costa_Rica"
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
