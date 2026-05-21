@@ -11,4 +11,4 @@ resources:
       cover: true
 ---
 
-![FK Kart](/fk.jpeg)
+![](/fk.jpeg)
