@@ -2,7 +2,7 @@ baseURL = 'https://tavocg.github.io/kart/'
 locale = 'es-la'
 title = 'Kartismo en CR'
 
-copyright = "© 2026 Fórmula Kart"
+copyright = "All Rights Reserved."
 defaultContentLanguage = "es"
 enableRobotsTXT = true
 languageCode = "es"
